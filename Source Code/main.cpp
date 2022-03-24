@@ -4,7 +4,7 @@
 int main() {
 	CheckFileDriver("image.sys");
 	Sleep(5000);
-	ConsoleCommands("kdmapper --free image.sys");
+	ConsoleCommands("kdmapper --mdl image.sys");
 	Sleep(2500);
 	while (true) 
 	{
