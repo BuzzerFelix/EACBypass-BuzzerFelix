@@ -6,4 +6,4 @@ Enjoy to use this :D
 
 # Join To My Discord 
 
-Join to my Discord: [Link](https://discord.gg/qcSfbVQXjq)
+[Link](https://discord.gg/qcSfbVQXjq)
